@@ -1,1 +1,0 @@
-{'username': 'william-richard', 'repo': 'william-richard/moto', 'path': 'moto/instance_metadata/responses.py', 'size': 1525, 'line_max': 90, 'copies': 2}

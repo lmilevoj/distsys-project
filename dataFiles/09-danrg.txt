@@ -1,1 +1,0 @@
-{'username': 'danrg', 'repo': 'danrg/RGT-tool', 'path': 'src/RGT/XML/SVG/Animation/mpathNode.py', 'size': 1258, 'line_max': 88, 'copies': 1}
